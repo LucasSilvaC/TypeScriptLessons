@@ -1,6 +1,7 @@
 import * as readline from 'readline';
 
 //npm install --save-dev @types/node
+//tsc --init
 
 function Table(position_table: string[]): void {
     console.log(`
